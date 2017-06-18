@@ -21,6 +21,7 @@
   <link rel="shortcut icon" href="lw/pc/images/index.png" type="image/x-icon" />
   <title>礼物和全球好货指南</title>
   <link rel="stylesheet" href="lw/pc/css/index.css"/>
+  <script type="text/javascript" src="lw/pc/js/jquery-1.10.2.js"></script>
 </head>
 <body>
 

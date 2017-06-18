@@ -2,7 +2,7 @@
 <div class="main-wrapper">
 	<div class="header-wapper">
 		<div class="header">
-			<div id="header-banner" class="wrapper">
+			<div id="header-banner" class="wrapper-one">
 				<div class="head-left">
 					<a class="header-logo" href="<?php echo site_url();?>" title="礼物说"></a>
 					<form class="searchbox" onsubmit="return false;">
@@ -24,7 +24,7 @@
 				</div>
 			</div>
 			<div id="header-nav">
-				<nav class="wrapper">
+				<nav class="wrapper-one">
 					<ul class="top-nav-link">
 						<li class="nav-top-bar"><a id="ntba-home" class="active" href="/">首页</a></li>
 						<!--  
@@ -115,7 +115,7 @@
 		<h3>攻略精选</h3>
 		<ul class="reco-list" id="reco-list">
 			<li class="post-item">
-				<a href="http://www.liwushuo.com/posts/1048300" class="pitem" target="_blank">
+				<a href="javascript:;" class="pitem">
 					<div class="pitem-cover" style="background: url(lw/pc/images/yw91bpu53.jpg-w720.jpg);background-size:cover;background-position:50% 50%;border-radius: 6px 6px 0 0;"></div>
 					<div class="new-flag flag-1048322"></div>
 					<div class="pitem-title">美腿计划：如何让蚊虫远离你，在这美丽的夏季？</div>
@@ -128,7 +128,7 @@
 				</a>
 			</li>
 			<li class="post-item">
-				<a href="http://www.liwushuo.com/posts/1048318" class="pitem" target="_blank">
+				<a href="javascript:;" class="pitem">
 					<div class="pitem-cover" style="background: url(lw/pc/images/buos2v7r2.jpg-w720.jpg);background-size:cover;background-position:50% 50%;border-radius: 6px 6px 0 0;"></div>
 					<div class="pitem-title">有哪些小众又不失设计感的品牌手表？</div>
 					<div class="pitem-content">手表，为你见证分分秒秒！手表的作用也不仅仅是看时间，随着时间流逝，手表带给大家的是知性的魅力，身份的象征，成熟的感...</div>
@@ -140,7 +140,7 @@
 				</a>
 			</li>
 			<li class="post-item">
-				<a href="http://www.liwushuo.com/posts/1048319" class="pitem" target="_blank">
+				<a href="javascript:;" class="pitem">
 					<div class="pitem-cover" style="background: url(lw/pc/images/65nm51i6r.jpg-w720.jpg);background-size:cover;background-position:50% 50%;border-radius: 6px 6px 0 0;"></div>
 					<div class="pitem-title">总有一本笔记本里写满了你所怀念的青春</div>
 					<div class="pitem-content">又是一年毕业季，不管是刚从书山题海中解放的高三党，即将走出校园踏进职场的大学毕业生，还是每日朝九晚五的上班族，在这...</div>
@@ -152,7 +152,7 @@
 				</a>
 			</li>
 			<li class="post-item">
-				<a href="http://www.liwushuo.com/posts/1048317" class="pitem" target="_blank">
+				<a href="javascript:;" class="pitem">
 					<div class="pitem-cover" style="background: url(lw/pc/images/tt87cg3tp.jpg-w720.jpg);background-size:cover;background-position:50% 50%;border-radius: 6px 6px 0 0;"></div>
 					<div class="pitem-title">你是如何与奇葩室友相处的？</div>
 					<div class="pitem-content">从小学到初中，从初中到高中，再从高中到大学，你至少有一个阶段是留校的。特别是大学，大半年都在学校里。而在学校，待的...</div>
@@ -164,7 +164,7 @@
 				</a>
 			</li>
 			<li class="post-item">
-				<a href="http://www.liwushuo.com/posts/1048311" class="pitem" target="_blank">
+				<a href="javascript:;" class="pitem">
 					<div class="pitem-cover" style="background: url(lw/pc/images/59yv4u9ho.jpg-w720.jpg);background-size:cover;background-position:50% 50%;border-radius: 6px 6px 0 0;"></div>
 					<div class="pitem-title">这年头不拎个菜篮子出门，都不好意思说自己时尚</div>
 					<div class="pitem-content">今年夏天最流行的单品是菜篮子？说出来你可能不信。那不如先看看这些时尚大佬们的实力演绎：</div>
@@ -176,7 +176,7 @@
 				</a>
 			</li>
 			<li class="post-item">
-				<a href="http://www.liwushuo.com/posts/1048285" class="pitem" target="_blank">
+				<a href="javascript:;" class="pitem">
 				<div class="pitem-cover" style="background: url(lw/pc/images/jqx73r1nx.jpg-w720.jpg);background-size:cover;background-position:50% 50%;border-radius: 6px 6px 0 0;"></div>
 				<div class="pitem-title">想让底妆起死回生，你需要这些定妆喷雾</div>
 				<div class="pitem-content">夏天到了，因为气温的升高，分分钟担心自己辛苦化好的妆容在瞬间被花掉。这个时候只需要一瓶喷雾就能轻松搞定。其实，定妆...</div>
